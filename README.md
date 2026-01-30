@@ -54,8 +54,7 @@ Sou **Desenvolvedor Fullstack (Python/Django e Front-end) em progresso**, focado
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiquealencar&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquealencar&layout=compact&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=kaiquealencar&show_icons=true&theme=tokyonight">
 </p>
 
 ---
