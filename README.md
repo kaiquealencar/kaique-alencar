@@ -1,24 +1,22 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/História_+_Tecnologia-%F0%9F%93%9C💻-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tecnologia_+_Projetos-%F0%9F%93%9C💻-blueviolet?style=for-the-badge">
 </p>
 
 <h1 align="center">👋 Olá! Eu sou <strong>Kaique Alencar</strong></h1>
 
 <p align="center">
-  📜 Professor de História &nbsp;|&nbsp; 💻 Desenvolvedor de Software  
+  💻 Desenvolvedor de Software | Python/Django
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-Sou **professor de História** e **desenvolvedor de software** com mais de **8 anos de experiência**.  
+Sou **desenvolvedor de software** com foco em **back-end, automação e projetos web**.  
 
-Depois de alguns anos dedicados à educação, estou **retomando minha jornada no desenvolvimento**, agora com um olhar mais **humano, ético e crítico sobre tecnologia**.  
+🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** e estudo **Python/Django**, com atenção especial a **boas práticas de programação, POO e desenvolvimento escalável**.  
 
-🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** e estudo **Python**, com foco em **back-end**, **automação** e **educação tecnológica**.  
-
-💡 **Acredito que programar também é uma forma de contar histórias — e transformar o mundo por meio delas.**
+💡 **Acredito que programar é transformar ideias em soluções práticas e funcionais.**
 
 ---
 
@@ -37,9 +35,16 @@ Depois de alguns anos dedicados à educação, estou **retomando minha jornada n
 ### 🌱 Atualmente aprendendo
 - 🐍 **Django** e **Flask**  
 - 🧩 **Boas práticas em Python e POO**  
-- 🧭 **Projetos que integrem educação e tecnologia**
+- 🧭 **Projetos web completos com deploy e integração**  
 
 ---
+
+### 💻 Projetos em destaque
+
+- [Sistema Vitrine](https://github.com/kaiquealencar/sistema-vitrine) – Gerenciamento de clientes e crachás em Django  
+- [Gerador QR Code](https://github.com/kaiquealencar/gerador-qr-code) – Criação de QR Codes online  
+- [CRUD de Etiquetas](https://github.com/kaiquealencar/crud-etiquetas) – Sistema de etiquetas em Python/Django
+
 
 ### 📊 Estatísticas do GitHub
 
@@ -53,7 +58,7 @@ Depois de alguns anos dedicados à educação, estou **retomando minha jornada n
 ### 📫 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/kaique-alencar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kaique_Alencar-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kaiquealencar@gmail.com">
@@ -64,5 +69,5 @@ Depois de alguns anos dedicados à educação, estou **retomando minha jornada n
 ---
 
 <p align="center">
-  <em>“Ensinar é deixar rastros de pensamento. Programar é transformar esses rastros em possibilidades.”</em> ✨
+  <em>“Programar é transformar ideias em soluções práticas e funcionais.”</em> ✨
 </p>
