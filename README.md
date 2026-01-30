@@ -12,13 +12,14 @@
 
 ### 🧠 Sobre mim
 
-Sou **desenvolvedor de software** com foco em **back-end, automação e projetos web**.  
+Sou **desenvolvedor fullstack**, focado em criar **aplicações web completas** usando **Python/Django no back-end** e **HTML, CSS, JavaScript e Bootstrap no front-end**.  
 
-🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** e estudo **Python/Django**, com atenção especial a **boas práticas de programação, POO e desenvolvimento escalável**.  
+🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** e estudo boas práticas de desenvolvimento web, POO e integração entre front e back-end.  
 
-💡 **Acredito que programar é transformar ideias em soluções práticas e funcionais.**
+💡 **Acredito que programar é transformar ideias em soluções completas, funcionais e bem estruturadas.**
 
 ---
+
 
 ### ⚙️ Tecnologias e Ferramentas
 
@@ -26,10 +27,13 @@ Sou **desenvolvedor de software** com foco em **back-end, automação e projetos
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
 ---
 
 ### 🌱 Atualmente aprendendo
