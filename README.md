@@ -45,7 +45,7 @@ Sou **Desenvolvedor Fullstack (Python/Django e Front-end) em progresso**, focado
 
 ### 💻 Projetos em destaque
 
-- [Sistema Vitrine](https://github.com/kaiquealencar/sistema-vitrine) – Gerenciamento de clientes e crachás em Django  
+- [Sistema Vitrine](https://github.com/kaiquealencar/sistema-vitrine) ![Python CI](https://github.com/kaiquealencar/sistema-vitrine/actions/workflows/python-ci.yml/badge.svg) – Gerenciamento de clientes e crachás em Django  
 - [Gerador QR Code](https://github.com/kaiquealencar/gerador-qr-code) – Criação de QR Codes online  
 - [CRUD de Etiquetas](https://github.com/kaiquealencar/crud-etiquetas) – Sistema de etiquetas em Python/Django
 
