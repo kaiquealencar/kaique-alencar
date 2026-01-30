@@ -12,7 +12,7 @@
 
 ### 🧠 Sobre mim
 
-Sou **desenvolvedor fullstack**, focado em criar **aplicações web completas** usando **Python/Django no back-end** e **HTML, CSS, JavaScript e Bootstrap no front-end**.  
+Sou **Desenvolvedor Fullstack (Python/Django e Front-end) em progresso**, focado em criar **aplicações web completas** usando **Python/Django no back-end** e **HTML, CSS, JavaScript e Bootstrap no front-end**.  
 
 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** e estudo boas práticas de desenvolvimento web, POO e integração entre front e back-end.  
 
