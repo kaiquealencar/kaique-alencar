@@ -1,77 +1,58 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Tecnologia_+_Projetos-%F0%9F%93%9C💻-blueviolet?style=for-the-badge">
-</p>
+# Olá 👋, eu sou o Kaique Alencar
 
-<h1 align="center">👋 Olá! Eu sou <strong>Kaique Alencar</strong></h1>
-
-<p align="center">
-  💻 Desenvolvedor de Software | Python/Django
-</p>
+💻 Desenvolvedor Python | Backend | ERP | APIs  
+🚀 Transformo ideias em soluções práticas e projetos reais  
+📍 Caçapava - SP, Brasil
 
 ---
 
-### 🧠 Sobre mim
+## 🧠 Sobre mim
 
-Sou **Desenvolvedor Fullstack (Python/Django e Front-end) em progresso**, focado em criar **aplicações web completas** usando **Python/Django no back-end** e **HTML, CSS, JavaScript e Bootstrap no front-end**.  
+Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de sistemas eficientes.  
+Tenho experiência em:
 
-🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** e estudo boas práticas de desenvolvimento web, POO e integração entre front e back-end.  
+- **Python**: Flask, Django  
+- **APIs REST**: consumo e integração  
+- **Sistemas ERP**: Delphi, Firebird, SQL  
+- Manipulação de dados e geração de insights  
 
-💡 **Acredito que programar é transformar ideias em soluções completas, funcionais e bem estruturadas.**
-
----
-
-
-### ⚙️ Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
----
-
-### 🌱 Atualmente aprendendo
-- 🐍 **Django** e **Flask**  
-- 🧩 **Boas práticas em Python e POO**  
-- 🧭 **Projetos web completos com deploy e integração**  
+Busco criar aplicações úteis, interativas e bem documentadas, enquanto aprimoro minhas habilidades técnicas.
 
 ---
 
-### 💻 Projetos em destaque
+## 🛠 Tecnologias & Ferramentas
 
-- [Sistema Vitrine](https://github.com/kaiquealencar/sistema-vitrine) ![Python CI](https://github.com/kaiquealencar/sistema-vitrine/actions/workflows/python-ci.yml/badge.svg?branch=main)
- – Gerenciamento de clientes e crachás em Django  
-- [Gerador QR Code](https://github.com/kaiquealencar/gerador-qr-code) – Criação de QR Codes online  
-- [CRUD de Etiquetas](https://github.com/kaiquealencar/crud-etiquetas) – Sistema de etiquetas em Python/Django
-
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kaiquealencar&show_icons=true&theme=tokyonight">
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Delphi](https://img.shields.io/badge/Delphi-EE1C25?style=for-the-badge&logo=delphi&logoColor=white)  
+![Firebird](https://img.shields.io/badge/Firebird-FEDE00?style=for-the-badge&logo=firebird&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
-### 📫 Onde me encontrar
+## 🚀 Projetos em destaque
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaique-alencar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaique_Alencar-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:kaiquealencar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kaiquealencar@gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+- **[spotifyinsights](https://github.com/kaiquealencar/spotifyinsights)** – Dashboard interativo gerando insights a partir da API do Spotify  
+- **[gerador-qr-code](https://github.com/kaiquealencar/gerador-qr-code)** – App simples para criar QR Codes com Python/Flask  
+- **[python-studies](https://github.com/kaiquealencar/python-studies)** – Estudos e experimentos em Python, automação e manipulação de dados  
+
+*(Veja todos os projetos no meu GitHub)*
 
 ---
 
-<p align="center">
-  <em>“Programar é transformar ideias em soluções práticas e funcionais.”</em> ✨
-</p>
+## 📬 Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaiquealencar)  
+📧 kaiquealencar@gmail.com  
+
+---
+
+## 🎯 Objetivos
+
+- Aprimorar habilidades em **Python**, **Flask** e **Django**  
+- Colaborar em projetos open-source  
+- Criar soluções que conectem dados a insights úteis  
+- Explorar novas tecnologias e linguagens para evoluir como desenvolvedor
